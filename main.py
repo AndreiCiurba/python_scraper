@@ -12,6 +12,7 @@ def get_column_values():
     wb = load_workbook(file_name)  # Work Book
     ws = wb.get_sheet_by_name('Sheet1')  # Work Sheet
     column = ws['B']  # Column
+    
     column_list = [str(column[x].value) for x in range(1,len(column))]
     return column_list
 
