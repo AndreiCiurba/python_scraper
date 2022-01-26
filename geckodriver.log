@@ -1,0 +1,137 @@
+1643213408039	geckodriver	INFO	Listening on 127.0.0.1:55028
+1643213411100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55029" "-no-remote" "-profile" "C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofilehr1vtU"
+1643213417174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofilehr1vtU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55029/devtools/browser/1e6c1c29-e91d-4a95-b94c-e611d8bdc14b
+1643213420575	Marionette	INFO	Listening on port 55084
+1643213420707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1643213463404	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643213663505	Marionette	INFO	Stopped listening on port 55084
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofileVdwRFi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56422/devtools/browser/ab048311-1be0-47b3-a81f-73f7c864cd37
+1643213497251	Marionette	INFO	Listening on port 56479
+1643213497469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1643213560520	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643213864575	Marionette	INFO	Stopped listening on port 56479
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59736" "-no-remote" "-profile" "C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofileg0LGcf"
+1643213678423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofileg0LGcf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59736/devtools/browser/4b93cfab-4134-4c07-ac3d-e04263315227
+1643213681492	Marionette	INFO	Listening on port 59788
+1643213681825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1643213724077	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1643213865070	Marionette	INFO	Stopped listening on port 59788
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643214341174	geckodriver	INFO	Listening on 127.0.0.1:56902
+1643214344260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56903" "-no-remote" "-profile" "C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofile3Ws0fG"
+1643214345057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofile3Ws0fG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56903/devtools/browser/962d2f20-69b6-4b0a-8c07-ef225ebf1bb0
+1643214348149	Marionette	INFO	Listening on port 56910
+1643214348477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643214526468	Marionette	INFO	Stopped listening on port 56910
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643214529359	geckodriver	INFO	Listening on 127.0.0.1:57168
+1643214532457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57169" "-no-remote" "-profile" "C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofilew8wtQI"
+1643214533271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofilew8wtQI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57169/devtools/browser/58c837a8-26bd-4304-b862-f9f3ca0a6f9c
+1643214536131	Marionette	INFO	Listening on port 57175
+1643214536160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.similarweb.com"
+1643214731510	Marionette	INFO	Stopped listening on port 57175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643214969880	geckodriver	INFO	Listening on 127.0.0.1:57869
+1643214972967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57870" "-no-remote" "-profile" "C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofilegyh5XG"
+1643214973737	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACiurba\\AppData\\Local\\Temp\\rust_mozprofilegyh5XG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57870/devtools/browser/3840f273-baf3-41c6-9c24-f47fdf3bd221
+1643214976802	Marionette	INFO	Listening on port 57877
+1643214977181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1643215045099	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643215045126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643215045138	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643215045148	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643215045158	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643215045163	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643215045175	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643215045183	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643215045193	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643215045203	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.similarweb.com"
+1643215097619	Marionette	INFO	Stopped listening on port 57877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
